@@ -10,4 +10,5 @@
 9-firstdirdeletion deletes the created directory
 10-back moves to the previous directory
 11-lists lists files in 3 different directories
-12-file_type prints type of file 
+12-file_type prints type of file
+13-symbolic_link creates soft link 
