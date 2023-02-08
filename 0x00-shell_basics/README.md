@@ -6,4 +6,5 @@
 5-listfilesdigitonly lists content numerically
 6-firstdirectory creates directory in temp directory
 7-movethatfile moves betty
-8-firstdelete deletes betty 
+8-firstdelete deletes betty
+9-firstdirdeletion deletes the created directory 
