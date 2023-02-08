@@ -8,4 +8,5 @@
 7-movethatfile moves betty
 8-firstdelete deletes betty
 9-firstdirdeletion deletes the created directory
-10-back moves to the previous directory 
+10-back moves to the previous directory
+11-lists lists files in 3 different directories 
