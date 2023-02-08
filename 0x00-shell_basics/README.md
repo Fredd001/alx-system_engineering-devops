@@ -9,4 +9,5 @@
 8-firstdelete deletes betty
 9-firstdirdeletion deletes the created directory
 10-back moves to the previous directory
-11-lists lists files in 3 different directories 
+11-lists lists files in 3 different directories
+12-file_type prints type of file 
