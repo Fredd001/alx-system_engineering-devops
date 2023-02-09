@@ -7,4 +7,5 @@
 6-multiple_permissions changes multiple permissions of the file hello
 7-everybody permission changes to hello
 8-james_bond gives full permission rights to other uses only
-9-John_Doe unreadable but writable and executable  
+9-John_Doe unreadable but writable and executable
+10-mirror_permissions references another files permissions 
