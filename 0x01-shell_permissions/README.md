@@ -4,4 +4,5 @@
 3-new_owner changes file owner
 4-empty creates an empty file called hello
 5-execute changes hello to executable file 
-6-multiple_permissions changes multiple permissions of the file hello 
+6-multiple_permissions changes multiple permissions of the file hello
+7-everybody permission changes to hello 
