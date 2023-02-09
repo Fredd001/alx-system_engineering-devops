@@ -9,3 +9,5 @@
 8-james_bond gives full permission rights to other uses only
 9-John_Doe unreadable but writable and executable
 10-mirror_permissions references another files permissions 
+11-directories_permissions makes dir executable 
+
